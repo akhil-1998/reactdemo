@@ -8,7 +8,7 @@ import WeavyApp from './weavy/WeavyApp';
 
 export default class App extends Component {
   async getJwt() {
-    return 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJteWNsaWVudGlkIiwibmFtZSI6ImFrc2hheSIsInBhc3N3b3JkIjoiYWtzaGF5QDk3Iiwic3ViIjoibXljbGllbnRpZCIsImNsaWVudF9pZCI6Im15Y2xpZW50aWQiLCJjbGllbnRfc2VjcmV0IjoibXljbGllbnRzZWNyZXQiLCJuYmYiOjE2MzA0MjA4OTUsImV4cCI6MTYzMDQyNDQ5NX0.Th7y8Aki1dePQwTFwLstnVZGQjjEwbhzMHSoH7YF61o';
+    return 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJteWNsaWVudGlkIiwibmFtZSI6ImFrc2hheSIsInBhc3N3b3JkIjoiYWtzaGF5QDk3Iiwic3ViIjoibXljbGllbnRpZCIsImNsaWVudF9pZCI6Im15Y2xpZW50aWQiLCJjbGllbnRfc2VjcmV0IjoibXljbGllbnRzZWNyZXQiLCJuYmYiOjE2MzA0MjE2MDAsImV4cCI6MTY2MTk1ODc3Mn0.mAZERMOUvpxcmz3B057XZYsH6OYy23VLw7A9xeCHA1s';
   }
 
   render() {
